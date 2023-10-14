@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Just a little project imitating the chatgpt UI using react and tailwind
 
 ## Available Scripts
 
